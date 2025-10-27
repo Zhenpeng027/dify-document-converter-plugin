@@ -1,0 +1,23 @@
+version: 0.0.1
+type: plugin
+author: Document Converter Team
+name: document_converter
+label:
+  en_US: Document Converter
+  zh_Hans: 文档转换器
+description:
+  en_US: Convert Markdown to Word documents with customizable formatting styles
+  zh_Hans: 将 Markdown 转换为 Word 文档，支持自定义格式样式
+icon: document
+tags:
+  - document
+  - conversion
+  - markdown
+  - word
+  - formatting
+plugins:
+  tools:
+    - name: markdown_to_word
+      label:
+        en_US: Markdown to Word Converter
+        zh_Hans: Markdown 转 Word 转换器
