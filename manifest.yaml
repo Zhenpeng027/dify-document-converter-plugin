@@ -18,6 +18,4 @@ tags:
 plugins:
   tools:
     - name: markdown_to_word
-      label:
-        en_US: Markdown to Word Converter
-        zh_Hans: Markdown 转 Word 转换器
+      label: Markdown to Word Converter
